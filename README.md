@@ -1,2 +1,2 @@
 # wyklad-monitory
-slajd do wykładu o monikorach
+slajd do wykładu o monitorach
